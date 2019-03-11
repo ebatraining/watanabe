@@ -1,0 +1,18 @@
+body{
+	margin:0;
+}
+
+header{
+	background-color:#3899BC;
+	padding:20px;
+}
+
+h1{
+	margin:0;
+}
+
+main{
+	max-width:1000px;
+	margin:0 auto;
+	padding:10%;
+}
