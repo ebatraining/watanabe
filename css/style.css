@@ -18,6 +18,17 @@ main{
 	padding:10%;
 }
 
+.demo01 {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+.demo01 li {
+	font-size: 18px;
+	color: #6f5151;
+}
+
 footer{
 	text-align: center;
 }
